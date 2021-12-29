@@ -1,0 +1,5 @@
+<map id="mlir::linalg::comprehensive_bufferize::BufferizationOptions" name="mlir::linalg::comprehensive_bufferize::BufferizationOptions">
+<area shape="rect" id="node3" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; llvm\l::DenseSet\&lt; StringRef \&gt; \&gt;" alt="" coords="381,86,577,127"/>
+<area shape="rect" id="node4" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; T \&gt;" alt="" coords="5,93,157,120"/>
+<area shape="rect" id="node7" href="$classunsigned.html" title="unsigned" alt="" coords="439,293,520,320"/>
+</map>
